@@ -36,9 +36,12 @@ Data
 
 The datasets are not included in this repository. They are available from their original sources:
 
-Kaggle Cyberbullying Tweets (Wang, Fu and Lu, 2020), used for English fine-tuning.
+Kaggle Cyberbullying Tweets (Wang, Fu and Lu, 2020), used for English fine-tuning. https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification
+
 SAfriSenti (Mabokela and Schlippe, 2022), used for domain-adaptive pretraining and the code-switching analysis.
-AfriHate, isiZulu and isiXhosa subsets (Muhammad et al., 2025), used to build the South African training, validation and test sets.
+https://github.com/NLPforLRLsProjects/SAfriSenti-Corpus-Mini
+
+AfriHate, isiZulu and isiXhosa subsets (Muhammad et al., 2025), used to build the South African training, validation and test sets. https://huggingface.co/datasets/afrihate/afrihate
 
 The notebook expects the files in a Google Drive folder at /content/drive/MyDrive/Honours/.
 
